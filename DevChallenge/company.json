@@ -1,0 +1,74 @@
+﻿{
+  "employees": [
+    {
+      "id": "1",
+      "firstname": "Camila",
+      "lastname": "Hill",
+      "location": "Maine",
+      "dateOfHire": "5/8/8335"
+    },
+    {
+      "id": "2",
+      "firstname": "Cristal",
+      "lastname": "Judd",
+      "location": "Alabama",
+      "dateOfHire": "2/7/6539"
+    },
+    {
+      "id": "3",
+      "firstname": "Nina",
+      "lastname": "Squire",
+      "location": "Iowa",
+      "dateOfHire": "7/29/7498"
+    },
+    {
+      "id": "4",
+      "firstname": "George",
+      "lastname": "Noon",
+      "location": "Massachusetts",
+      "dateOfHire": "11/20/1657"
+    },
+    {
+      "id": "5",
+      "firstname": "Karla",
+      "lastname": "Pierce",
+      "location": "Nebraska",
+      "dateOfHire": "1/17/0947"
+    },
+    {
+      "id": "6",
+      "firstname": "Doug",
+      "lastname": "Mcgregor",
+      "location": "Missouri",
+      "dateOfHire": "4/20/7123"
+    },
+    {
+      "id": "7",
+      "firstname": "Manuel",
+      "lastname": "White",
+      "location": "Alaska",
+      "dateOfHire": "8/21/7604"
+    },
+    {
+      "id": "8",
+      "firstname": "Tom",
+      "lastname": "Stewart",
+      "location": "Iowa",
+      "dateOfHire": "2/2/8260"
+    },
+    {
+      "id": "9",
+      "firstname": "Blake",
+      "lastname": "Steer",
+      "location": "Maine",
+      "dateOfHire": "10/28/1990"
+    },
+    {
+      "id": "10",
+      "firstname": "Peyton",
+      "lastname": "Kerr",
+      "location": "Louisiana",
+      "dateOfHire": "5/6/3036"
+    }
+  ]
+}
